@@ -41,6 +41,13 @@
 	color:white;
 	margin-left:70px;
 }
-.content .button p{
-	padding:12px
+button{
+	margin-left:100px;
+	background-color: #FE625A;
+	border:0px;
+	color:white;
+	width:100px;
+	height: 50px;
+	border-radius: 10px;
 }
+
